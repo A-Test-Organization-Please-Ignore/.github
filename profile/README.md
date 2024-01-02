@@ -12,4 +12,4 @@ Please see https://www.firestormviewer.org/choose-your-platform/ to download the
 This page is for people who wish to develop, contribute, and compile the viewer themselves. We do not provide support for self compiling!
 
 # Looking for support or to report a bug?
-For support and bug reports, please visit our Jira at https://jira.firestormviewer.org/
+For support and bug reports, please visit our Jira at https://jira.firestormviewer.org/, or visit our self help wiki at https://wiki.firestormviewer.org/!
