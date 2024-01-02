@@ -19,7 +19,7 @@ If you do not have a account on the Firestorm Jira, please create one before pro
 https://wiki.firestormviewer.org/file_a_jira#creating_an_account
 
 Please file your report **as a support request**! This way the report stays private and is seen as soon as possible. We will move the issue to the bug tracker with private status, or to our internal project as needed so that it remains private.<br/>
-You can do so by going here:
+You can do so by going here:<br/>
 https://jira.firestormviewer.org/secure/CreateIssue.jspa?pid=10003&issuetype=8
 
 Thank you for helping keep The Firestorm Viewer safe and secure!
