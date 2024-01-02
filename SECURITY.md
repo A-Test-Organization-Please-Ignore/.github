@@ -12,7 +12,7 @@ Any bug that can, but not limited to:
 It is **IMPORTANT** to not disclose this in-world, or to share it with anyone outside of The Firestorm Team or Linden Lab.
 
 If the issue is related to Second Life, and not the Firestorm viewer, please report the issue to Linden Lab by following their security issues guide at:<br/>
-https://wiki.secondlife.com/wiki/Security_issues.<br/>
+https://wiki.secondlife.com/wiki/Security_issues<br/>
 The Firestorm Team **CANNOT** assist with Second Life related security issues, other than to point you in the right direction.
 
 If you do not have a account on the Firestorm Jira, please create one before proceeding. You can find a guide on how to do so here:<br/>
