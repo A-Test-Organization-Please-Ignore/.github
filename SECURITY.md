@@ -9,7 +9,7 @@ Any bug that can, but not limited to:
 4. Allow remote code execution on another resident's computer
 
 # What to do when you discover a security issue?
-It is **IMPORTANT** to not disclose this in-world, or to share it with anyone outside of the Linden Lab or The Firestorm Team.
+It is **IMPORTANT** to not disclose this in-world, or to share it with anyone outside of The Firestorm Team or Linden Lab.
 
 If the issue is related to Second Life, and not the Firestorm viewer, please report the issue to Linden Lab by following their security issues guide at:<br/>
 https://wiki.secondlife.com/wiki/Security_issues.<br/>
