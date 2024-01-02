@@ -4,8 +4,7 @@
   <img alt="Second Life Logo" src="images/firestorm_readme_light.png"> <!-- Assume light theme -->
 </picture>
 
-The [Firestorm Viewer](https://www.firestormviewer.org) is a open source third party viewer for the [Second Life](https://secondlife.com/) virtual world.<br/>
-Here you can find the source code to our viewer.
+The [Firestorm Viewer](https://www.firestormviewer.org) is a open source third party viewer for the [Second Life](https://secondlife.com/) virtual world.
 
 # Looking for downloads?
 If you are looking to download the viewer to run, this is the wrong place!<br/>
