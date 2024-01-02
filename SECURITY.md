@@ -11,14 +11,14 @@ Any bug that can, but not limited to:
 # What to do when you discover a security issue?
 It is **IMPORTANT** to not disclose this in-world, or to share it with anyone outside of The Firestorm Team or Linden Lab.
 
-If the issue is related to Second Life, and not the Firestorm viewer, please report the issue to Linden Lab by following [their security issues guide](https://wiki.secondlife.com/wiki/Security_issues)<br/>
+If the issue is related to Second Life, and not the Firestorm viewer, please report the issue to Linden Lab by following [their security issues guide](https://wiki.secondlife.com/wiki/Security_issues).<br/>
 The Firestorm Team **CANNOT** assist with Second Life related security issues, other than to point you in the right direction.
 
-If you do not have a account on the Firestorm Jira, please [create one](http://jira.firestormviewer.org/secure/Signup!default.jspa) before proceeding. If you need assistance creating one, you can find a guide on how to do so here:<br/>
-https://wiki.firestormviewer.org/file_a_jira#creating_an_account
+If you do not have a account on the Firestorm Jira, please [create one](http://jira.firestormviewer.org/secure/Signup!default.jspa) before proceeding. If you need assistance creating one, please follow [this guide](https://wiki.firestormviewer.org/file_a_jira#creating_an_account) on how to create one, or contact support in-world.
+
 
 Please file your report **as a support request**! This way the report stays private and is seen as soon as possible. We will move the issue to the bug tracker with private status, or to our internal project as needed so that it remains private.<br/>
-You can do so by going here:<br/>
+You can create a support ticket by going to this address:<br/>
 https://jira.firestormviewer.org/secure/CreateIssue.jspa?pid=10003&issuetype=8
 
 Thank you for helping keep The Firestorm Viewer safe and secure!
