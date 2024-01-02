@@ -17,7 +17,7 @@ The Firestorm Team **CANNOT** assist with Second Life related security issues, o
 If you do not have a account on the Firestorm Jira, please [create one](http://jira.firestormviewer.org/secure/Signup!default.jspa) before proceeding. If you need assistance creating one, please follow [this guide](https://wiki.firestormviewer.org/file_a_jira#creating_an_account) on how to create one, or contact support in-world.
 
 
-Please file your report **as a support request**! This way the report stays private and is seen as soon as possible. We will move the issue to the bug tracker with private status, or to our internal project as needed so that it remains private.<br/>
+Please file your report **as a support request**! This way the report stays private and is seen by our team as soon as possible. We will move the issue to the bug tracker with private status, or to our internal project as needed so that it remains private.<br/>
 You can create a support ticket by going to this address:<br/>
 https://jira.firestormviewer.org/secure/CreateIssue.jspa?pid=10003&issuetype=8
 
